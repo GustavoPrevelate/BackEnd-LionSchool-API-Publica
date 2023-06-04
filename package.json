@@ -1,4 +1,11 @@
 {
+  "name": "Api - LionSchool",
+  "version": "1.0.0",
+  "description": "API sobre a escola LionSchool",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2"
